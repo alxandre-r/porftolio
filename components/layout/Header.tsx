@@ -44,7 +44,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link href="/" className="group flex items-center gap-4">
-            <Image src="/logoAR.svg" alt="Logo" className='dark:invert' width={48} height={48} />
+            <Image src="/logo-AR.svg" alt="Logo" className='dark:invert' width={48} height={48} />
             <span className="text-lg font-bold text-[var(--color-foreground)] group-hover:text-[var(--color-accent)] transition-colors">
               Alexandre Robert
             </span>
